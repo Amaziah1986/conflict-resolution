@@ -1,3 +1,3 @@
 # conflict-resolution
 
-this is text from VS Code. ** this is from my local 'git' repository. **
+This is my text from Github ( this is from my remote repository)
